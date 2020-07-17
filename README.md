@@ -8,5 +8,5 @@ _________
 
 * Before to run only the final notebook of the application, please download the folder _data sets_ and create the final data set with the notebook _04 data wrangling_. 
 
-If you find any issue with the notebooks, contact camiloegomeznarvaez@gmail.com
+If you find any issue with the notebooks, please contact camiloegomeznarvaez@gmail.com
 
